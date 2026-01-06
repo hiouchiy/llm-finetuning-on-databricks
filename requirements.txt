@@ -1,0 +1,7 @@
+transformers==4.57.3
+tokenizers==0.22.1
+trl
+peft
+causal_conv1d
+mamba_ssm
+hf_transfer
